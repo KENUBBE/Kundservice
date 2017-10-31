@@ -1,0 +1,54 @@
+
+
+.grey {
+
+    color: #515151;
+    background: #d3d3d3;
+}
+
+.ul {
+
+    text-align: center;
+    list-style-type: none;
+    padding: 50px;
+    margin: 50px;
+
+}
+
+.ul-1 {
+
+    text-align: left;
+    list-style-type: none;
+    margin-left: 5em;
+
+}
+
+a:link {
+
+    font: bold 15px/30px Arial, sans-serif;
+    text-decoration: none;
+
+}
+
+hr {
+    display: block;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 5em;
+    margin-right: 5em;
+    border-style: inset;
+    border-width: 2px;
+}
+
+h2 {
+
+    margin-left: 3em;
+}
+
+#runda {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    overflow: hidden;
+    margin: 8px;
+}
